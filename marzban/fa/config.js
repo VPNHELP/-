@@ -1,11 +1,11 @@
 export const config = {
   sidebar: [
     {
-      text: 'مقدمه',
+      text: 'آموزش‌ها',
       items: [
         {
-          text: 'معرفی مرزبان',
-          link: '/docs/introduction',
+          text: 'v2rayNG',
+          link: '/docs/v2rayNG',
         },
         {
           text: 'راه‌اندازی',
